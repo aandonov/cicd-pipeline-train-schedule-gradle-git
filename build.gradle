@@ -8,7 +8,7 @@
 // a lot of the work for us as far as dealing with node.js builds. We're calling in that
 // plugin here
 plugins {
-  id("com.github.node-gradle.node") version "2.2.4"
+  id("com.github.node-gradle.node") version "3.2.1"
 }
 
 // We've also got to confgure the plugin a little bit. This line will instruct the node plugin
